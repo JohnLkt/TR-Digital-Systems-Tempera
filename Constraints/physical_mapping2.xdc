@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports {Common_A_Selected[7]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Common_A_Selected[6]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Common_A_Selected[5]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Common_A_Selected[4]}]
+set_property PACKAGE_PIN P14 [get_ports {Common_A_Selected[4]}]
+set_property PACKAGE_PIN T14 [get_ports {Common_A_Selected[5]}]
+set_property PACKAGE_PIN K2 [get_ports {Common_A_Selected[6]}]
+set_property PACKAGE_PIN U13 [get_ports {Common_A_Selected[7]}]
